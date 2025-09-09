@@ -26,4 +26,7 @@
 - Which app version have the most reported issue ?
 
 
-*More questions and detailed insights are included in the 
+*More questions and detailed insights are included in the [Mobile App Issue Analysis Presentation](https://github.com/ManyaGupta-mg/Mobile-App-Issue-Analysis/blob/main/Mobile%20App%20Issue%20Analysis%20Presentation.pdf)*
+
+## Dashboard
+
