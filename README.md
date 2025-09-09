@@ -2,7 +2,7 @@
   This project analyzes the trend and pattern in issue reports over time to identify the most common type of app problems,detect any spikes related to app version or device type and give actionable insights to        improve app stability and user experience .
   
 ## Dataset
- - Dataset Of users (users.csv) and issues (issue.csv) are AI generated(synthetic data).
+ - Dataset Of users (users.csv) and issues (issues.csv) are AI generated(synthetic data).
  - It consists of 2 csv files - Users and Issues
    - Users : user_id , name , email , signup_date , device type ,app version
    - Issues : issue_id , user_id , issue_type , description , reported_date , status , priority , app_version
