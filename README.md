@@ -2,7 +2,7 @@
   This project analyzes the trend and pattern in issue reports over time to identify the most common type of app problems,detect any spikes related to app version or device type and give actionable insights to        improve app stability and user experience .
   
 ## Dataset
- - Dataset is from kaggle.
+ - 
  - It consists of 2 csv files - Users and Issues
    - Users : user_id , name , email , signup_date , device type ,app version
    - Issues : issue_id , user_id , issue_type , description , reported_date , status , priority , app_version
@@ -29,4 +29,6 @@
 *More questions and detailed insights are included in the [Mobile App Issue Analysis Presentation](https://github.com/ManyaGupta-mg/Mobile-App-Issue-Analysis/blob/main/Mobile%20App%20Issue%20Analysis%20Presentation.pdf)*
 
 ## Dashboard
+
+  *[Mobile App Issue Analytics Dashboard](https://github.com/ManyaGupta-mg/Mobile-App-Issue-Analysis/blob/main/Power%20BI%20%20Dashboard.png)*
 
